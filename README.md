@@ -1,3 +1,11 @@
+<h1 align="center">💖 Hi, I'm Letícia Vaz 💖</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1500&lines=Technology+Student 💻;Passionate+about+learning+and+innovation 🚀;Focused+on+building+my+career+in+tech 📚;Always+improving+my+skills ✨;Based+in+Brazil 🇧🇷">
+</p>
+
+---
+
 <h1 align="center">Olá, sou Letícia</h1>
 
 ###
@@ -22,16 +30,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/let%C3%ADcia-in%C3%A1cio-pereira-vaz-01974b2b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://x.com/leticiavazx_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://discord.com/users/822066062983954463" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.instagram.com/leticia_vazzz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -45,6 +53,7 @@
 
 ###
 
-<h4 align="left">System.out.println("Hello, World!");<br>Buscando aprender mais a cada dia!</h4>
-
-###
+<h4 align="left">
+System.out.println("Hello, World!");<br>
+Buscando aprender mais a cada dia!
+</h4>
