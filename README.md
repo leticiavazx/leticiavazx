@@ -1,14 +1,12 @@
-<h1 align="center">💖 Hi, I'm Letícia Vaz 💖</h1>
+###
+
+
+<h1 align="center"> Hi, I'm Letícia Vaz </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1500&lines=Technology+Student 💻;Passionate+about+learning+and+innovation 🚀;Focused+on+building+my+career+in+tech 📚;Always+improving+my+skills ✨;Based+in+Brazil 🇧🇷">
 </p>
 
----
-
-<h1 align="center">Olá, sou Letícia</h1>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
