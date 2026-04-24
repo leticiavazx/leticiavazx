@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Leticia;Technology+Student;From+Brazil">
 
 
 ###
