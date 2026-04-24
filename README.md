@@ -1,13 +1,6 @@
-<h1 align="center">💖 Hi, I'm Letícia Vaz 💖</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1500&lines=Technology+Student 💻;Passionate+about+learning+and+innovation 🚀;Focused+on+building+my+career+in+tech 📚;Always+improving+my+skills ✨;Based+in+Brazil 🇧🇷">
-</p>
-
----
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Leticia;Technology+Student;From+Brazil">
-
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=700&lines=Hello,+my+name+is+Leticia;I+am+a+technology+student;and+I'm+from+Brazil">
+</h2>
 ###
 
 <div align="center">
