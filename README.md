@@ -1,7 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=700&lines=Hello,+my+name+is+Leticia;I+am+a+technology+student;and+I'm+from+Brazil">
-</h2>
-###
+</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
